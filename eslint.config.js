@@ -1,6 +1,5 @@
 import js from '@eslint/js';
 import prettierConfig from 'eslint-config-prettier';
-import { createTypeScriptImportResolver } from 'eslint-import-resolver-typescript';
 import prettier from 'eslint-plugin-prettier';
 import tseslint from 'typescript-eslint';
 
